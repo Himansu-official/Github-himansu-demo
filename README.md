@@ -1,4 +1,4 @@
 # Github-himansu-demo
-This is my first Git Repository.
+Hi i am Himanshu!
 <br>
 Author - Himanshu Sahoo
